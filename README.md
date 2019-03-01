@@ -39,3 +39,12 @@ Design & maintain website, organize a/v for Church events, coordinate Sunday ser
 Houston, TX | July 2014 - Present
 
 Web consulting services for various businesses in spare time.
+
+## Education 
+
+### Houston Community College
+AS of Computer Science | Houston, TX | Jan 2016 - Present
+
+### Cinco Ranch High School
+Diploma | Katy, TX | Aug 2010 - May 2015
+
