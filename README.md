@@ -20,7 +20,7 @@ PHP, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Ele
 
 Houston, TX | Nov 2018 - Present
 
-I developed and maintained web applications, facilitated sprints, assisted and mentored Junior Developers. 
+I develop and maintain web applications, facilitate sprints, assist and mentor Junior Developers. 
 
 ### [United States Trustee's Office](https://www.ch13hou.com/) - System Analyst/Programmer
 
