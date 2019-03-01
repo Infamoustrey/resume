@@ -1,5 +1,5 @@
 # Brandon Trey Foster
-> treybfoster@gmail.com | Houston, TX | [Website](https://treyfoster.com) 
+treybfoster@gmail.com | Houston, TX | [Website](https://treyfoster.com) 
 
 ## Skills
 PHP, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Electron
