@@ -3,8 +3,8 @@ treybfoster@gmail.com | Houston, TX | [Website](https://treyfoster.com)
 
 ## Skills
 PHP, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Electron
-
-### [Portfolio](https://www.treyfoster.com/#/projects)
+ 
+## [Portfolio](https://www.treyfoster.com/#/projects)
 
 [Raft(Unbury Me Clone)](https://raft.treyfoster.com/)
 
