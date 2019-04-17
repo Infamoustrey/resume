@@ -2,7 +2,7 @@
 treybfoster@gmail.com | Houston, TX | [Website](https://treyfoster.com) 
 
 ## Skills
-PHP, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Electron
+PHP, LAMP, Linux, MySQL, Postgres, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Electron
  
 ## [Portfolio](https://www.treyfoster.com/projects)
 
@@ -20,13 +20,13 @@ PHP, Javascript, ES6/7, ReactJS, NodeJS, Laravel, ExpressJS, VueJS, Angular, Ele
 
 Houston, TX | Nov 2018 - Present
 
-I develop and maintain web applications, facilitate sprints, assist and mentor Junior Developers. 
+I develop and maintain web applications, facilitate sprints, assist and mentor Junior Developers. I cut costs by automating simple repetative tasks, and increase profitability by focusing on higher conversion rates.
 
 ### [United States Trustee's Office](https://www.ch13hou.com/) - System Analyst/Programmer
 
 Houston, TX | June 2016 - Nov 2018
 
-Maintained systems, automated various tasks through scripts. Overhauled systems to bring office up to spec with modern technology.
+Maintained systems, automated various tasks through scripts. Overhauled systems to bring office up to spec with modern technologies. 
 
 ### [The Vine Fellowship Church](https://www.vinefellowship.org/) - A/V Director
 
