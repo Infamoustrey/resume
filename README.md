@@ -20,13 +20,13 @@ PHP, LAMP, Linux, MySQL, Postgres, Javascript, ES6/7, ReactJS, NodeJS, Laravel, 
 
 Houston, TX | Nov 2018 - Present
 
-I develop and maintain web applications, facilitate sprints, assist and mentor Junior Developers. I cut costs by automating simple repetative tasks, and increase profitability by focusing on higher conversion rates.
+I develop and maintain web applications, facilitate sprints, assist and mentor Junior Developers. I cut costs by automating simple repetative tasks, and increase profitability by focusing on higher conversion rates. Worked primarily with AWS, LAMP, Laravel, ReactJS(Redux, Thunk, RouterDom), MySQL
 
 ### [United States Trustee's Office](https://www.ch13hou.com/) - System Analyst/Programmer
 
 Houston, TX | June 2016 - Nov 2018
 
-Maintained systems, automated various tasks through scripts. Overhauled systems to bring office up to spec with modern technologies. 
+Maintained systems, automated various tasks through scripts. Overhauled systems to bring office up to spec with modern technologies. Worked primarily with AWS, Express, VueJS, Vuex, MSSQL
 
 ### [The Vine Fellowship Church](https://www.vinefellowship.org/) - A/V Director
 
